@@ -1,0 +1,60 @@
+.login-logo a{
+    display: block!important;
+    font-size: 1.8rem!important;
+}
+.login-logo a img{
+    display: block;
+    /* height: 120px!important; */
+    width: 200px!important;
+    width: auto;
+}
+.form-error{
+    display: block;
+    color: #ad0505;
+    font-style: italic;
+    font-size: .9rem;
+}
+.form-error.login{
+    color: #fff!important;
+}
+.table-header{
+    background-color: #056d4a;
+    color: #fff;
+}
+.input-note-item{
+    color: #ad0505;
+    /* font-style: italic; */
+    font-size: .8rem;
+}
+.preview-logo{
+    display: block;
+}
+.preview-notes{
+    display: block;
+}
+.preview-notes p{
+    color: #e20909!important;
+    font-size: .8rem!important;
+    margin-bottom: 0!important;
+}
+.page-notes{
+    width: 100%;
+    display: block;
+}
+.page-notes p{
+    color: #e20909!important;
+    font-size: .8rem!important;
+    margin-bottom: 0!important;
+}
+.file-preview{
+    display: block;
+    width: 100%;
+}
+.label-status{
+    padding:5px;
+    font-size: .8rem;
+    letter-spacing: 1px;
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;
+}

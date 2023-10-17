@@ -1,0 +1,40 @@
+.navbar-brand img{
+    height: 30px;
+    width: auto!important;
+}
+#services .item-boxes .icon img{
+    width: 100%;
+}
+.wa-link img{
+    width: 40%;
+}
+.blogs-item{
+    float: left!important;
+  }
+  .blogs-item img{
+    width: 100%;
+    display: block;
+  }
+  .blogs-item h6{
+    font-size: 1.3rem!important;
+  }
+  .blogs-item .date-published{
+    font-size: .8rem!important;
+  }
+  .blogs-item .continue-reading{
+    color: #F63854;
+    letter-spacing: 1px;
+  }
+  #newsModal{
+    z-index: 999999!important;
+  }
+  .news-dialog-content{
+    max-width: 1024px!important;
+  }
+  .news-dialog-content .news-header{
+    font-size: 2.2rem!important;
+  }
+  .news-dialog-content .news-image{
+    width: 100%!important;
+    padding: 10px 0;
+  }
